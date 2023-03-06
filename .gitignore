@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+project-proposals-s2023/
 eggs/
 .eggs/
 lib/
