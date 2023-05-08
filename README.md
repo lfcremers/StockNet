@@ -10,6 +10,10 @@ Stocknet takes a list of holdings and automatically flags current and upcoming d
 Input a list of positions and out comes a series of emails on overdue and soon to come disclosure TODOs by geographic region.
 
 
+To install:
+pip install StockNet
+
+This app can currently be run by executing StockNet_quicken.py
 
 # Getting Started with Create React App
 
